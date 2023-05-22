@@ -16,7 +16,7 @@ A Real Tim Code Editor made with React.js , Node js , Expressjs , Socket.io.
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![App Screenshot]("C:\Users\aditya\OneDrive\Pictures\Screenshots\Screenshot (1665).png")
 
 
 
