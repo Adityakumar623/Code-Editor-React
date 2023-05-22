@@ -14,10 +14,10 @@ A Real Tim Code Editor made with React.js , Node js , Expressjs , Socket.io.
 
 
 
-## Screenshots
+<!-- ## Screenshots
 
 ![App Screenshot]("C:\Users\aditya\OneDrive\Pictures\Screenshots\Screenshot (1665).png")
-
+ -->
 
 
 Install dependencies
